@@ -1,4 +1,3 @@
-# anushka-portfolio
 # Anushka Molgi - Data Analytics Portfolio
 
 Final-year Engineering student @ SUTD | Business Analytics & Operations Research
@@ -7,14 +6,14 @@ Final-year Engineering student @ SUTD | Business Analytics & Operations Research
 
 ### Aggregate Planning & Optimization Tool
 Linear programming model for inventory and workforce planning using Gurobi.
-- Python, Pandas, Gurobi
-- [View Code](https://github.com/anushka-molgi/anushka-portfolio/blob/main/optimize.py)
 
-### Skills
+- Python, Pandas, Gurobi
+- View code in `optimise.py` above
+
+## Skills
 Python | SQL | R | Time Series (LSTM, Prophet) | Pandas | Scikit-learn | Gurobi
 
 ## Contact
-📧 anushkamolgi14@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/anushka-molgi)
+📧 anushkamolgi14@gmail.com
 
 📅 Available for full-time roles from July 2026
