@@ -14,6 +14,7 @@ Linear programming model for inventory and workforce planning using Gurobi.
 Python | SQL | R | Time Series (LSTM, Prophet) | Pandas | Scikit-learn | Gurobi
 
 ## Contact
-📧 anushkamolgi14@gmail.com
+📧 anushkamolgi14@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/anushka-molgi)
 
 📅 Available for full-time roles from July 2026
